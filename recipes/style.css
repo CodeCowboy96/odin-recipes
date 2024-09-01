@@ -1,0 +1,25 @@
+h2 {
+    font-size: 26px;
+    text-align: center;
+}
+h3 {
+    font-size: 24px;
+}
+.para {
+    font-size: 22px;
+}
+
+.steps,
+.olist {
+    color: rgb(38, 85, 226);
+}
+
+.olist,
+.ulist {
+    font-size: 22px;
+}
+
+.ingr,
+.ulist {
+    color: brown;
+}
